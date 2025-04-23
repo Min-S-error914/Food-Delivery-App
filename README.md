@@ -22,7 +22,5 @@ This project is designed for a **Database Management Systems (DBMS)** course and
 - Frontend for demonstration
 - Triggers and stored procedures (bonus)
 
----
 
-## 📁 Project Structure
 
