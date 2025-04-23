@@ -1,0 +1,21 @@
+food-delivery-app/
+│
+├── assets/                     # Static files like images, logos, etc.
+│
+├── src/                        # Source code for the app
+│   ├── controllers/            # Handles request logic
+│   ├── models/                 # Database models
+│   ├── routes/                 # API routes
+│   └── utils/                  # Utility functions
+│
+├── db/                         # Database-related files (schema, migrations)
+│   └── schema.sql              # Database schema for food delivery system
+│
+├── docs/                       # Documentation files (if any)
+│
+├── tests/                      # Unit tests for backend logic
+│
+├── .gitignore                  # Git ignore file
+├── README.md                   # Project README file
+├── package.json                # Node.js dependencies (if using Node.js)
+└── server.js                   # Main server file (or entry point)
